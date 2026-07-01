@@ -1,0 +1,60 @@
+team,week,side,slot,depth,num,name,full,pos,nat,flags,status,chg,lev,drop,conf,persist,mvar,ratio,note,health_since,health_reason,health_list,health_return,health_ramp,col,ht,wt,age,cfl,pff,pffSnaps
+OTT,4,offense,WR_B,1,80,Victor,,WR (X),A,,active,in,High,—,Moderate,ongoing,Moderate,,"REDBLACKS debut in place of Lewis. 32/331/1 with EDM in 2025 — capable, a clear step down from a proven #1.",,,,,,Ohio State,6-4,198,29,2,66.3,331
+OTT,4,offense,WR_B,2,87,Lewis,,WR (X),A,,1gIL,out,High,Moderate,Moderate,week-to-week,Moderate–High,,"Baseline #1 — 3× All-CFL (75/1,012/6 in 2025). The single swing variable for this rating.",Wk4,shoulder,1-game IL,Wk5 (week-to-week),TRUE,Penn State,6-2,207,33,9,83.1,620
+OTT,4,offense,SB_1,1,2,Hardy,,SB,A,,active,,Medium,,High,—,,,Steady slot — 7/119/1 at MTL in the Wk4 rally.,,,,,,East Carolina,5-10,192,33,9,73,
+OTT,4,offense,SB_2,1,81,White,,SB,N,,active,,Medium,,High,—,,National receiver — depth of ratio strength,"National starting SB — 2 TD at MTL, ""the real deal"" per preseason scouting.",,,,,,Montana,6-1,200,28,2,74.2,
+OTT,4,offense,SB_3,1,7,Eberhardt,,SB,A,,active,,Medium,,High,—,,,Team-leading receiver early (12/178/1 through 3). High YPC add from BC.,,,,,,Wyoming,6-1,200,28,2,74,
+OTT,4,offense,WR_F,1,83,Pimpleton,,WR (Z),A,,active,,Medium,,High,—,—,,"Full-time WR w/ 1,000-yd upside + lead returner — 94-yd KR TD at MTL.",,,,,,Central Michigan,5-8,162,27,2,71.5,
+OTT,4,offense,WR_F,2,85,McDonald,,WR,A,DA,active,,Low,,,,,,Designated American depth / returner.,,,,,,Miami (OH),5-10,200,25,1,62.4,
+OTT,4,offense,LT,1,64,Boyd,,LT,A,,active,,High,,High,—,,,Blindside tackle.,,,,,,Cincinnati,6-3,307,29,4,69.5,
+OTT,4,offense,LG,1,61,Desjarlais,,LG,N,,active,,High,,High,—,,Anchor of the National interior,"Part of a ""solid and established"" National interior line.",,,,,,Windsor,6-2,314,29,6,79.2,700
+OTT,4,offense,C,1,51,McEwen,,C,N,,active,,High,,High,—,,National C — ratio spine,Veteran National centre; sets the established interior.,,,,,,Calgary,6-3,300,32,10,76,660
+OTT,4,offense,C,2,69,Carson,,C/G,N,,active,,Low,,,,,,National interior depth.,,,,,,La-Monroe,6-4,300,24,2,62.1,
+OTT,4,offense,RG,1,68,Vaccaro,,RG,N,,active,,High,,High,—,,National RG,"Won the RG job; Bladek (N) was offseason competition, not active.",,,,,,Purdue,6-5,305,26,4,73.4,640
+OTT,4,offense,RG,2,65,Diouf,,G,N,,active,in,Low,,,,,,Promoted National interior depth.,,,,,,Montreal,6-2,305,24,1,60.2,140
+OTT,4,offense,RT,1,52,Pelehos,,RT,N,,active,moved,Medium–High,Small,Moderate,ongoing,,▲ +1 National starter on OL,"Ivey (A) released; Pelehos installed at RT — the preseason ratio-flex plan realized. Guard→tackle conversion adds slight risk, real ratio gain.",,,,,,Ottawa,6-5,305,26,4,71,
+OTT,4,offense,QB,1,13,Maier,,QB,A,QB1,active,,Very High,,High,—,,,"Established QB1 (named out of camp). Early form (61%, 6.3 YPA, 2 TD/2 INT) is a SEPARATE, non-availability input — priced elsewhere.",,,,,,UC Davis,6-0,219,29,5,68.4,480
+OTT,4,offense,QB,2,17,B. Barnes,,QB,A,,active,in,Low,,,,,,Activated amid the QB-room overhaul.,,,,,,Utah,6-1,213,24,1,58,60
+OTT,4,offense,QB,3,16,Vattiato,,QB,A,,active,in,Low,,,,,,Signed Wk4 as QB insurance thinned.,,,,,,Middle Tenn.,6-0,205,23,1,55.2,40
+OTT,4,offense,QB,4,10,Bethel-Thompson,,QB,A,,suspended,,Low,,,,,,"Veteran signed hours after the Brown trade, then handed a league suspension — QB insurance, not a starter threat to Maier.",,,,,,Sacramento St.,6-4,225,37,12,66,120
+OTT,4,offense,RB,1,5,Bell,,RB,A,,active,,Low–Medium,Small,Mod–High,—,Low,,"Took the job when Collins went down — comparable import starter (near like-for-like), so the Collins 6-game loss is ≈ negligible for the rating.",,,,,,San Diego St.,5-10,220,28,2,71.2,410
+OTT,4,offense,RB,2,25,Adeboboye,,RB,N,,active,,Low,,,,,,National change-of-pace back — team-leading rusher early at 6.7 YPC.,,,,,,Bryant,5-9,222,27,4,69,
+OTT,4,offense,RB,3,35,Collins,,RB,A,,6gIL,out,Low–Medium,Small,Mod–High,≥3g (6-game IL),,,Wk1 starting RB; well-covered by Bell.,~Jun 15 (bye),—,6-game IL,~Wk6–7,FALSE,Oklahoma St.,6-0,221,25,2,70.1,
+OTT,4,offense,FB,1,45,Gosselin,,FB,N,,active,,Low,,High,—,,National FB,National FB; may cede snaps to a 3rd SB by package.,,,,,,Sherbrooke,6-1,241,33,9,64.3,
+OTT,4,defense,CB_B,1,6,Houston,,CB,A,,active,,High,,High,—,High,,Boundary corner — matchup-sensitive vs pass-heavy sets.,,,,,,Southern A&M,5-11,191,29,4,71.3,
+OTT,4,defense,HB_B,1,14,Williams,,HB,A,,active,,Medium,,High,—,,,Boundary halfback.,,,,,,Oregon,6-0,210,27,2,66.1,
+OTT,4,defense,HB_B,2,31,Lucien,,HB,A,DA,active,moved,Low,,,,,,DA depth; slid across the secondary week to week.,,,,,,Vanderbilt,6-0,195,28,4,63,
+OTT,4,defense,S,1,23,Hutter,,S,N,,active,,Medium,,High,—,,National safety,National starting safety — a ratio pillar in the back end.,,,,,,Wilfrid Laurier,6-0,203,28,7,73.2,560
+OTT,4,defense,S,2,20,Addae,,S,N,,1gIL,out,Low,,,week-to-week,,Trims National DB cushion (contingent),National backup safety — his absence thins National DB depth.,Wk4,head,1-game IL,Wk5,FALSE,West Virginia,6-0,209,30,3,68.4,
+OTT,4,defense,HB_F,1,4,Henderson,,HB (field),A,,active,in,Medium,—,Moderate,ongoing (return ramp),High,,Season debut at field HB — returned and won the job over the Nkuba stopgap. On a 1–2 game return ramp.,,,,,,Wake Forest,6-0,191,28,4,67.1,
+OTT,4,defense,HB_F,2,22,Frye,,HB (field),A,,6gIL,,Medium,Moderate,Moderate,≥3g (6-game IL),High,,Baseline field-HB starter; now covered at ~starter level by the returning Henderson.,~Jun 15 (bye),—,6-game IL,~Wk6–7,TRUE,Texas Tech,5-11,189,27,2,72.3,
+OTT,4,defense,CB_F,1,9,S. Brown,,CB,A,,active,,High,,High,—,High,,Field corner; preseason INT.,,,,,,Michigan St.,5-10,189,27,2,68,
+OTT,4,defense,WLB,1,47,Connors,,WLB,N,,active,,Medium,,Moderate,—,,National starter (Cole DA plays behind — loophole),Nominal National WLB starter; the DA (Cole II) usually plays the bulk of snaps.,,,,,,Wilfrid Laurier,6-1,230,26,2,67.2,
+OTT,4,defense,WLB,2,0,Allen,,WLB,N,,active,,Low,,,,,National LB cushion,National LB depth behind Connors.,,,,,,Guelph,5-11,235,28,4,64.1,
+OTT,4,defense,WLB,3,41,Cole II,,WLB,A,DA,1gIL,out,Low,,,week-to-week,,,The DA who plays behind Connors — his absence reduces American WLB rotation.,Wk4,head,1-game IL,Wk5,FALSE,Mississippi St.,6-2,222,26,1,60.3,
+OTT,4,defense,MLB,1,43,Brodrique,,MLB,N,,active,,Medium,,Moderate,—,,National MLB,"National MLB — nominal starter, but watch Morgan's heavy usage (open ""true starter"" question).",,,,,,Montreal,6-2,231,27,7,70.4,520
+OTT,4,defense,MLB,2,36,Casey,,MLB,A,,active,in,Low,,,,,,New signing — inside-LB depth.,,,,,,Indiana,6-1,230,26,2,61,
+OTT,4,defense,MLB,3,1,Morgan,,MLB,A,,active,,Medium,,,,,,Led the team in tackles at MTL (9) despite a backup listing — MLB area may rotate heavier than the chart shows.,,,,,,Notre Dame,6-1,249,29,5,73.1,470
+OTT,4,defense,SLB,1,37,M. Barnes,,SLB,A,,active,in,Low,Small–Moderate,Low,monitor,,,"Practice-roster promotion to SLB starter — thin sample, but a ST producer (preseason pick-6). Held at low confidence.",,,,,,William & Mary,6-2,193,25,1,57.2,118
+OTT,4,defense,SLB,2,8,Reavis,,SLB,A,,active,moved,Low,,,,,,SLB starter in Wk3 → backup after the reshuffle (lateral).,,,,,,Marshall,6-0,209,30,3,65,
+OTT,4,defense,DE_B,1,94,Parks,,DE,N,,active,in,Medium,Negligible,Moderate,ongoing,,National edge — maintains front ratio,"Returning ex-Saskatchewan rotational National (Grey Cup pedigree) — a legit rotation add, not a raw call-up. Reads neutral-to-positive.",,,,,,Saskatchewan,6-4,224,21,1,63.4,210
+OTT,4,defense,DE_B,2,93,John,,DE,N,,active,,Medium,,,,,National DE,National DE — heavy rotation with Parks/Vilain.,,,,,,Saint Mary's,6-0,257,28,2,67,
+OTT,4,defense,DE_B,3,95,Baldonado,,DE,G,,active,,Low,,,,,,Global edge rusher in the rotation.,,,,,,Pittsburgh,6-3,256,25,3,66.2,
+OTT,4,defense,DT_1,1,90,Laing,,DT,N,,active,,Medium,,High,—,,National DT,National interior — the lone sack at MTL.,,,,,,Iowa State,6-2,279,32,9,73.5,590
+OTT,4,defense,DT_1,2,75,Ageli,,DT,N,,active,,Low,,,,,National interior depth,National DT depth.,,,,,,NW Oklahoma St.,6-3,301,35,12,61.1,
+OTT,4,defense,DT_2,1,55,Ta'ala,,DT,G,,active,moved,Medium,,Moderate,—,,,Now starts DT ahead of Wakefield — minor rotation flip.,,,,,,Hawaii,6-1,293,27,3,66,
+OTT,4,defense,DT_2,2,96,Wakefield,,DT,A,NA,active,moved,Low,,,,,"Nationalized American (the ""one"")",Nationalized American interior — dropped behind Ta'ala.,,,,,,FIU,6-2,279,32,9,65.3,
+OTT,4,defense,DE_F,1,44,Vilain,,DE,N,,active,,High,,High,—,,National edge,Late-spring acquisition; National starting edge (Evans is the DA behind him).,,,,,,Wake Forest,6-4,260,28,1,75.1,540
+OTT,4,defense,DE_F,2,29,Evans,,DE,A,DA,active,in,Low,,,,,,Signing — Designated American edge rotation.,,,,,,Louisiana Tech,6-2,249,23,1,60,95
+OTT,4,defense,DE_F,3,91,Carter,,DE,A,,active,,Low,,,,,,Edge depth.,,,,,,James Madison,6-0,257,28,4,63.2,
+OTT,4,st,KP,1,21,Lauther,,K/P,N,,active,,Low,,High,—,,National specialist,National kicker/punter — rebounding from a tough 2025 out west.,,,,,,Saint Mary's,6-0,199,35,9,71.4,
+OTT,4,st,KP,2,33,Gettman,,K,A,DA,active,,Minimal,,,,,,DA kicking depth.,,,,,,Akron,6-5,217,25,1,58.1,
+OTT,4,st,LS,1,53,Adjey,,LS,N,,active,,Minimal,,High,,,National LS,National long snapper.,,,,,,Queen's,6-3,242,27,4,66.3,
+OTT,4,st,RET,1,83,Pimpleton,,KR/PR,A,,active,,Medium,,,,High,,Primary returner — 94-yd KR TD at MTL flipped a two-score deficit late.,,,,,,Central Michigan,5-8,162,27,2,71.5,
+OTT,4,st,RET,2,85,McDonald,,RET,A,DA,active,,Low,,,,,,Return depth.,,,,,,Miami (OH),5-10,200,25,1,62.4,
+OTT,4,il,,,84,Mardner,,WR,A,,6gIL,,Low,,,,,,Talented top-end WR when healthy; depth loss.,Wk1,,6-game IL,~Wk6–7,,—,,,26,,68.2,
+OTT,4,il,,,30,Boutin,,FB,A,,6gIL,,Minimal,,,,,,FB depth (Gosselin starts).,Wk1,,6-game IL,~Wk6–7,,,,,,,60.1,
+OTT,4,il,,,19,Cormier,,LB,N,,1gIL,out,Low,,,,,Trims National LB cushion (contingent),National LB depth — week-to-week.,Wk4,oblique,1-game IL,Wk5,,,,,,,64,
+OTT,4,il,,,27,Ambers,,DB,N,,6gIL,,Low,,,,,National DB depth,National DB depth.,Wk1,,6-game IL,~Wk6–7,,,,,,,62.3,
+OTT,4,il,,,42,Peter,,LB,N,,6gIL,,Low,,,,,National LB depth,National LB depth.,Wk1,,6-game IL,~Wk6–7,,,,,,,63.1,
+OTT,4,il,,,92,Okpoko,,DL,A,,6gIL,,Low,,,,,,DL depth.,Wk1,,6-game IL,~Wk6–7,,,,,,,61.2,

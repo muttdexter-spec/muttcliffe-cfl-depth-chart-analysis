@@ -1,0 +1,81 @@
+team,week,key,label,side,tier,conf,depth,flag,note
+OTT,4,rec,Receivers,offense,Above-avg,Med,thinned,Lewis out (wk-to-wk),Hardy/White/Eberhardt/Pimpleton carry; Victor fills the #1 role.
+OTT,4,iol,Interior OL,offense,Elite,High,full,National-anchored,Desjarlais–McEwen–Vaccaro — solid and established.
+OTT,4,ot,Tackles,offense,Starter,Med,full,Pelehos (N) at RT — ratio,"Boyd LT; Ivey released, Pelehos installed (+1 National)."
+OTT,4,bak,Backfield,offense,Starter,Med,full,Collins 6g (covered),Bell near like-for-like; Adeboboye change-of-pace.
+OTT,4,qb,Quarterback,offense,Starter,Med,thinned,form ≠ availability,"Maier set as QB1; backups churned, Bethel-Thompson suspended. Form priced separately."
+OTT,4,edge,Edge,defense,Above-avg,High,full,National edge,Vilain/John/Parks — National-rich rotation.
+OTT,4,idl,Interior DL,defense,Starter,Med,full,—,Laing (N)/Ta'ala (G)/Wakefield rotation.
+OTT,4,lb,Linebackers,defense,Starter,Low–Med,thinned,Cormier 1g; Morgan usage,Connors/Brodrique (N) start; SLB on a PR promotion — watch nominal vs effective.
+OTT,4,sec,Secondary,defense,Starter,Med,thinned,HIGH variance; Frye 6g,"Houston/S.Brown/Hutter (N); Henderson back, Addae 1g."
+OTT,4,st,Specialists,st,Above-avg,High,full,National K/LS,"Lauther K/P, Adjey LS; Pimpleton on returns (94-yd KR TD at MTL)."
+TOR,4,rec,Receivers,offense,Above-avg,Med,full,—,"Coxie #1, Mital (N) in the slot; Kahmann/Ungerer round it out. Herslow a healthy scratch."
+TOR,4,iol,Interior OL,offense,Above-avg,High,full,National interior,Hunter–Nicastro–Shepley all National — settled and solid.
+TOR,4,ot,Tackles,offense,Starter,Med,full,Randolph (RT) out → Kemp,Like-for-like — Kemp a veteran with more CFL starts than Randolph.
+TOR,4,bak,Backfield,offense,Starter,Med,full,—,Hicks at RB; Cassar (N) at fullback.
+TOR,4,qb,Quarterback,offense,Above-avg,Med,thinned,form priced separately,"Kelly (former MOP) QB1; Arbuckle/Horn behind. Talent high, but the team is scuffling."
+TOR,4,edge,Edge,defense,Above-avg,Med,full,Kongbo (N) anchors,Kongbo (N) + Chatfield; Ojo (N) depth.
+TOR,4,idl,Interior DL,defense,Starter,Med,full,—,Toia (G) / Holley / Shand (N) rotation.
+TOR,4,lb,Linebackers,defense,Above-avg,Med,full,Judge (N) leads,"Judge (N) the every-down anchor; Darkangelo, Pickett."
+TOR,4,sec,Secondary,defense,Starter,Low–Med,thinned,Priester season-ending; John (N) IL,FS Priester lost for the year → Wilson (CFL debut). HIGH variance vs pass.
+TOR,4,st,Specialists,st,Starter,Med,full,—,Kicking/return game steady.
+MTL,4,rec,Receivers,offense,Above-avg,Med,thinned,Philpot elite; depth gutted,"Philpot league-leading, Snead the #2; little proven behind them (Dedmon/Harris/Spieker/Sterns all out)."
+MTL,4,iol,Interior OL,offense,Starter,Med,full,—,Kept Alexander clean for 345 yds in Wk4.
+MTL,4,ot,Tackles,offense,Starter,Med,full,—,Steady edge protection.
+MTL,4,bak,Backfield,offense,Above-avg,Med,full,Scott III back,"Scott III + Theis; Scott III season debut, 65 yds."
+MTL,4,qb,Quarterback,offense,Elite,High,full,0 INT · won first 13 starts,"Alexander — league passing leader, elite efficiency, mobile."
+MTL,4,edge,Edge,defense,Starter,Med,full,—,Adequate rush off the edge.
+MTL,4,idl,Interior DL,defense,Starter,Med,full,—,Holds up inside.
+MTL,4,lb,Linebackers,defense,Above-avg,High,full,Beverette back,Tyrice Beverette (2024 Most Outstanding Defensive Player finalist) returns.
+MTL,4,sec,Secondary,defense,Starter,Low–Med,thinned,Ento + Burns out — leaky,Both starting corners out; surrendered second-half runs vs EDM.
+MTL,4,st,Specialists,st,Starter,Med,thinned,Dedmon (KR) out,Maltos on kicks; return game thinned without Dedmon.
+HAM,3,rec,Receivers,offense,Above-avg,Med,full,—,Established corps; unchanged across the opening slate.
+HAM,3,iol,Interior OL,offense,Above-avg,High,full,National cushion,Settled interior; part of a ~10-National starting group.
+HAM,3,ot,Tackles,offense,Above-avg,Med,full,—,Steady edge protection.
+HAM,3,bak,Backfield,offense,Starter,Med,full,—,Stable backfield.
+HAM,3,qb,Quarterback,offense,Above-avg,High,full,Mitchell + Ford,Bo Levi Mitchell QB1 with Tre Ford — the deepest one-two punch in the league.
+HAM,3,edge,Edge,defense,Above-avg,Med,full,—,Productive edge rush.
+HAM,3,idl,Interior DL,defense,Starter,Med,full,—,Holds up inside.
+HAM,3,lb,Linebackers,defense,Starter,Med,thinned,MIKE starter out (knee),Standing discount at MIKE — intended starter has not debuted.
+HAM,3,sec,Secondary,defense,Starter,Med,thinned,boundary CB (all-star) out,All-star boundary corner out Wk3 (head) — PR call-up covering.
+HAM,3,st,Specialists,st,Above-avg,High,full,—,Consistent kicking and coverage all season.
+SSK,4,rec,Receivers,offense,Above-avg,Med,full,—,Veteran corps around Harris.
+SSK,4,iol,Interior OL,offense,Above-avg,Med,full,—,Steady protection for a pocket passer.
+SSK,4,ot,Tackles,offense,Above-avg,Med,full,—,Holds the edge.
+SSK,4,bak,Backfield,offense,Above-avg,High,full,Ouellette — elite RB,AJ Ouellette — second in the league in rushing last season; the engine of the offence.
+SSK,4,qb,Quarterback,offense,Above-avg,High,thinned,Harris — no proven backup,"Trevor Harris — reigning Grey Cup-winning starter (4,549 yds, 24 TD). Thin behind him."
+SSK,4,edge,Edge,defense,Above-avg,Med,full,—,Solid edge presence.
+SSK,4,idl,Interior DL,defense,Starter,Med,full,—,Holds up inside.
+SSK,4,lb,Linebackers,defense,Above-avg,Med,full,—,"Experienced, downhill group."
+SSK,4,sec,Secondary,defense,Above-avg,Low–Med,thinned,Campbell anchors; HB/S thinned,"Tevaughn Campbell (All-Star CB) anchors, but HB/S churned through injuries (Milligan/Lokombo/Hughes)."
+SSK,4,st,Specialists,st,Above-avg,Med,full,—,Reliable units.
+EDM,4,rec,Receivers,offense,Above-avg,Med,full,Robustelli added,Julien-Grant / O'Leary-Orange; off-season add Joe Robustelli.
+EDM,4,iol,Interior OL,offense,Above-avg,Med,thinned,"Woodmansey (RG, N) 6-game IL",O'Donnell (LG) / Beard (C) solid; National RG Woodmansey out → rookie.
+EDM,4,ot,Tackles,offense,Starter,Med,full,—,Steady on the edges.
+EDM,4,bak,Backfield,offense,Above-avg,High,full,Rankin — elite RB,Justin Rankin — the most complete back in the league.
+EDM,4,qb,Quarterback,offense,Above-avg,Med,full,Fajardo — rejuvenated,Cody Fajardo QB1 — seized the job midway last year and looks rejuvenated.
+EDM,4,edge,Edge,defense,Above-avg,Med,full,Carney added; Smith (N),Smith (N) plus off-season pass-rush add Malik Carney.
+EDM,4,idl,Interior DL,defense,Starter,Med,full,—,Curtis (N) healthy despite a 2025 ACL — a quiet National DL positive.
+EDM,4,lb,Linebackers,defense,Starter,Med,thinned,Anderson (MLB) 6-game IL,"Dublanko (WLB, N) leads; MLB Anderson out (hamstring)."
+EDM,4,sec,Secondary,defense,Starter,Med,full,—,Ford (N) at corner; National depth in the back end.
+EDM,4,st,Specialists,st,Above-avg,Med,full,Leake — elite returner; LS out,Javon Leake among the league's most explosive returners; LS Burton-Krahn on 6-game IL.
+CGY,4,rec,Receivers,offense,Above-avg,Med,thinned,Begelton 6-game IL; C. Barnes in,"Jalen Philpot / Janusas (N); import Begelton on 6-game IL, Clark Barnes filling."
+CGY,4,iol,Interior OL,offense,Above-avg,High,full,National interior,"Williams–Fortin–Nkanu all National — a settled, strong interior."
+CGY,4,ot,Tackles,offense,Starter,Med,full,—,Steady on the edges.
+CGY,4,bak,Backfield,offense,Starter,Med,full,—,Committee backfield.
+CGY,4,qb,Quarterback,offense,Above-avg,Med,full,Adams Jr. — streaky,"Vernon Adams Jr. — elite ceiling when hot (4,247 yds, 21 TD), turnover-prone when not."
+CGY,4,edge,Edge,defense,Above-avg,Med,full,Orimolade — edge pressure,Folarin Orimolade off the edge; returned Wk4 with a sack.
+CGY,4,idl,Interior DL,defense,Above-avg,Med,full,Hutchings — inside push,Jaylon Hutchings (NFL cut) a coup — pairs with Orimolade for inside-out pressure.
+CGY,4,lb,Linebackers,defense,Starter,Med,full,—,Moncrief / Blackwell; rotational DA depth thinner after 6-game IL losses.
+CGY,4,sec,Secondary,defense,Starter,Low–Med,thinned,"Greene (CB, N) 6-game IL",National CB Greene's Wk4 injury cascades the back end; Sombach (N) at safety.
+CGY,4,st,Specialists,st,Starter,Med,thinned,Paredes (K) out → McAtamney,15-year ironman Paredes on 6-game IL; rookie McAtamney a reliability question.
+WPG,4,rec,Receivers,offense,Above-avg,High,full,Schoen (All-CFL) leads,Dalton Schoen (All-CFL) and Ontaria Wilson headline a stable corps.
+WPG,4,iol,Interior OL,offense,Above-avg,High,full,deep National,"Settled, deep, National-heavy interior."
+WPG,4,ot,Tackles,offense,Above-avg,Med,full,—,Steady protection.
+WPG,4,bak,Backfield,offense,Above-avg,High,full,Oliveira — star National RB,Brady Oliveira — one of the league's best backs and a National at a premium spot.
+WPG,4,qb,Quarterback,offense,Above-avg,High,full,Collaros QB1,Zach Collaros QB1; Dru Brown added as insurance behind him.
+WPG,4,edge,Edge,defense,Above-avg,Med,thinned,Jefferson elite; opposite edge unsettled,Willie Jefferson (6× all-star) locks one edge; the opposite side is the roster's real soft spot.
+WPG,4,idl,Interior DL,defense,Starter,Med,full,—,Deep rotation absorbs the weekly front-seven churn.
+WPG,4,lb,Linebackers,defense,Above-avg,Med,full,deep room; Santos-Knox out,"Loaded room (Kyrie Wilson, Tony Jones as depth); Santos-Knox on 6-game IL."
+WPG,4,sec,Secondary,defense,Above-avg,High,full,Holm (2025 MOD) anchors,Evan Holm — reigning Most Outstanding Defensive Player — anchors an unchanged back end.
+WPG,4,st,Specialists,st,Above-avg,High,full,—,"Reliable, well-drilled units."
